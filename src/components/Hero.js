@@ -50,7 +50,7 @@ function Hero() {
                     </div>
                 </div>
 
-                <div className='flex flex-col w-5/12 border border-blue-200 bg-blue-50 rounded-2xl'>
+                <div className='flex flex-col w-5/12 border border-blue-200 bg-blue-50 rounded-3xl shadow-2xl'>
                     <div className='grid grid-cols-3 p-4'>
                         <img className='p-2' src={Image2} alt="" />
                         <img className='p-2' src={Image6} alt="" />
